@@ -61,7 +61,7 @@ const About = () => {
       <h4 style={{ fontSize: '1.2rem', marginBottom: '0.5rem' }}>Bachelor of Technology in Computer Science and Engineering</h4>
       <p style={{ color: 'var(--color-text-secondary)', marginBottom: '0.5rem' }}>Vellore Institute of Technology</p>
       <p style={{ color: 'var(--color-primary)' }}>2021 - 2025</p>
-      <p style={{ marginTop: '0.5rem' }}>CGPA: 8.25 / 10</p>
+      <p style={{ marginTop: '0.5rem' }}>CGPA: 8.4 / 10</p>
     </motion.div>
     
     {/* Second Education Item (New) */}
